@@ -82,11 +82,11 @@ const aboutme = {
 |Language| Experience level  |
 |--|--|
 | VB Script | 20% |
-| Java | 75% |
-| Javascript | 70% |
+| **Java** | **75%** |
+| **Javascript** | **70%** |
 | Typescript | 60% |
 | Python | 20% |
-| Dart | 65% |
+| **Dart** | **65%** |
 | Swift | 50% |
 | PHP | 40% |
 
