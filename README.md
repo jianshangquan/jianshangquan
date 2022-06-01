@@ -3,10 +3,10 @@
 const aboutme = {
   name: {
     english: "Jian Shang Quan",
-    chinese: "简尚全",
-    nationality: "Oversea chinese/ 缅甸华人",
-    dob: 1999
+    chinese: "简尚全"
   },
+  nationality: "Oversea chinese/ 缅甸华人",
+  dob: 1999,
   programmingLanguages: [
     {
       lang: "VB Script",
