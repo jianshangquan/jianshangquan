@@ -1,16 +1,81 @@
-### Hi there 👋
+# About me
+```javascript
+const aboutme = {
+  name: {
+    english: "Jian Shang Quan",
+    chinese: "简尚全",
+    nationality: "Oversea chinese/ 缅甸华人"
+    dob: 1999
+  },
+  programmingLanguages: [
+    {
+      lang: "VB Script",
+      exp: "20%"
+    },
+    {
+      lang: "Java",
+      exp: "75%"
+    },
+    {
+      lang: "Javascript",
+      exp: "70%"
+    },
+    {
+      lang: "Python",
+      exp: "20%"
+    },
+    {
+      lang: "Dart",
+      exp: "65%"
+    },
+    {
+      lang: "Swift",
+      exp: "50%"
+    },
+    {
+      lang: "PHP",
+      exp: "40%"
+    }
+  ],
+  frameworks: {
+    frontend: [
+      "Spring",
+      "Nodejs",
+      "Laravel"
+    ],
+    backend: [
+      "Flutter",
+      "React",
+      "Android",
+      "IOS"
+    ]
+  }
+}
+```
 
-<!--
-**jianshangquan/jianshangquan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My learning path
+VB Script > Java > Javascript > Python > Dart > Swift > PHP
 
-Here are some ideas to get you started:
+## Frameworks 
+#### Server side
+1. Spring (Java)
+2. Nodejs (Javascript)
+3. Laravel (PHP)
+#### Client side 
+1. Flutter
+2. React
+3. Basic Android/IOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Experience
+|Language| Experience level  |
+|--|--|
+| VB Script | 20% |
+| Java | 75% |
+| Javascript | 70% |
+| Python | 20% |
+| Dart | 65% |
+| Swift | 50% |
+| PHP | 40% |
+
+
