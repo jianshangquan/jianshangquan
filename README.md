@@ -4,7 +4,7 @@ const aboutme = {
   name: {
     english: "Jian Shang Quan",
     chinese: "简尚全",
-    nationality: "Oversea chinese/ 缅甸华人"
+    nationality: "Oversea chinese/ 缅甸华人",
     dob: 1999
   },
   programmingLanguages: [
@@ -19,6 +19,10 @@ const aboutme = {
     {
       lang: "Javascript",
       exp: "70%"
+    },
+    {
+      lang: "Typescript",
+      exp: "60%"
     },
     {
       lang: "Python",
@@ -54,7 +58,14 @@ const aboutme = {
 ```
 
 ## My learning path
-VB Script > Java > Javascript > Python > Dart > Swift > PHP
+1. VB Script
+2. Java
+3. Javascript
+4. Typescript
+5. Python
+6. Dart
+7. Swift
+8. PHP
 
 ## Frameworks 
 #### Server side
