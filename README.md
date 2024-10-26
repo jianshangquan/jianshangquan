@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as CTO<br>👯 I’m looking to collaborate on TheParadance<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Bigdata(Apache Spark), ML, AI<br>💬 Ask me about Flutter, React, Express<br>⚡ Fun fact
+🔭 I’m currently working as Software Engineer<br>👯 I’m looking to collaborate on TheParadance<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Bigdata(Apache Spark), ML, AI<br>💬 Ask me about Flutter, React, Express<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
